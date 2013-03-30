@@ -22,6 +22,11 @@ Run the server::
 
     npm start
 
-Open [http://0.0.0.0:3000/app.html](http://0.0.0.0:3000/app.html)
+Open [http://0.0.0.0:3000/](http://0.0.0.0:3000/)
 in a browser to make sure it's running.
-Install the [manifest](http://0.0.0.0:3000/manifest.webapp) on a device.
+Install the [manifest](http://0.0.0.0:3000/chirpradio-owa/manifest.webapp) on a device.
+
+Deploy to github-pages::
+
+    volo build
+    volo ghdeploy

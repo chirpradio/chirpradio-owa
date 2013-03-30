@@ -7,6 +7,8 @@
     "npm": "1.1.x"
   },
   "dependencies": {
-    "express": "3.1.0"
+    "express": "3.1.0",
+    "volo": ">= 0.2.9",
+    "volo-ghdeploy": ">= 0.0.4"
   }
 }
