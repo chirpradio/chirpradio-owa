@@ -30,3 +30,6 @@ Deploy to github-pages::
 
     volo build
     volo ghdeploy
+
+Try out the live app by installing this manifest:
+[chirpradio.github.com/chirpradio-owa/manifest.webapp](http://chirpradio.github.com/chirpradio-owa/manifest.webapp)
