@@ -6,7 +6,7 @@
  "permissions": {
    "audio-channel-content": {}
  },
- "launch_path": "/chirpradio-owa/app.html",
+ "launch_path": "/chirpradio-owa/index.html",
  "icons": {},
  "default_locale":"en",
  "installs_allowed_from": ["*"]}
