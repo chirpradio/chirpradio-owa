@@ -1,0 +1,12 @@
+{"name": "CHIRP Radio",
+ "description": "CHIRP is a radio station in Chicago that focuses on independent music and the local community",
+ "version": "1.0",
+ "developer": {"name": "Kumar McMillan",
+               "url": "http://farmdev.com/"},
+ "permissions": {
+   "audio-channel-content": {}
+ },
+ "launch_path": "/chirpradio-owa/index.html",
+ "icons": {},
+ "default_locale":"en",
+ "installs_allowed_from": ["*"]}
